@@ -15,6 +15,7 @@ Currently looking for opportunities to grow as a **developer and software engine
 
 * Java
 * JavaScript
+* Python
 * Node.js
 * SQL
 
@@ -41,6 +42,7 @@ Currently looking for opportunities to grow as a **developer and software engine
 * VS Code
 * NetBeans
 * Microsoft SQL Server
+* MySQL
 
 ---
 
