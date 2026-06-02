@@ -1,18 +1,3 @@
-# 👋 Hello! I'm Caio Gonçalves
-
-🎓 Information Technology student at **Universidade Anhembi Morumbi**
-💻 Passionate about **software development, system architecture and problem solving**
-🌎 Based in São Paulo, Brazil
-
-I enjoy building applications that combine **good architecture, functional design and practical usability**.
-Currently looking for opportunities to grow as a **developer and software engineer**.
-
----
-
-## 🚀 Technologies & Tools
-
-### 💻 Programming
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -42,6 +27,21 @@ Currently looking for opportunities to grow as a **developer and software engine
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
+
+# 👋 Hello! I'm Caio Gonçalves
+
+🎓 Information Technology student at **Universidade Anhembi Morumbi**
+💻 Passionate about **software development, system architecture and problem solving**
+🌎 Based in São Paulo, Brazil
+
+I enjoy building applications that combine **good architecture, functional design and practical usability**.
+Currently looking for opportunities to grow as a **developer and software engineer**.
+
+---
+
+## 🚀 Technologies & Tools
+
+### 💻 Programming
 
 * Java
 * JavaScript
