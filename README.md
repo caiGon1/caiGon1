@@ -127,7 +127,9 @@ A web game made with HTML, CSS and JavaScript to encourage children to learn coo
 ## 🌎 Languages
 
  Portuguese — Native
+<br/>
  English — Intermediate-Advanced (B1)
+ <br/>
  Spanish — Basic
 
 ---
