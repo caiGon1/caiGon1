@@ -119,9 +119,8 @@ A React web application that connects students with independent driving instruct
 💸 **Finances Managing System**
 A React web application connected to a NODE.JS backend that allows users to enter their spendings and view in charts and get feedback with a Google AI.
 
-🎮 **Coordinates Web Game**
-A web game made with HTML, CSS and JavaScript to encourage children to learn coordinates with a fun coloring game.
-
+🎵 **Spotify AI Agent Radio**
+A Spotify integrated cron Python script that updates every sunday with new songs, news, and reflextions based on the day with AI.
 ---
 
 ## 🌎 Languages
