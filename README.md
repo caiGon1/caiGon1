@@ -98,6 +98,12 @@
  Microsoft SQL Server
  MySQL
 
+### ☁️ Cloud
+
+AWS
+Vercel
+Supabase
+
 ---
 
 ## 📚 Currently Learning
