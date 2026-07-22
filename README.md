@@ -121,6 +121,7 @@ A React web application connected to a NODE.JS backend that allows users to ente
 
 🎵 **Spotify AI Agent Radio**
 A Spotify integrated cron Python script that updates every sunday with new songs, news, and reflextions based on the day with AI.
+
 ---
 
 ## 🌎 Languages
