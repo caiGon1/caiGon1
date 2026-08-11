@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey! I'm Caio<br>(╯°□°)╯︵ ┻━┻</h1>
+<h1 align="center">Hey! I'm Caio<br>(ノω<。)ノ))☆.。</h1>
 
 ###
 
